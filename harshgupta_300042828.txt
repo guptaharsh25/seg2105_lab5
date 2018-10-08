@@ -1,0 +1,6 @@
+This is my SEG2105 Lab 5 submission. I have my lab on Mondays.
+
+Name: Harsh Gupta
+Student #: 300042828
+
+Github Repository: https://github.com/guptaharsh25/seg2105_lab5.git
